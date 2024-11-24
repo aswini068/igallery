@@ -117,7 +117,7 @@ function unDo() {
 ```
 
 ## OUTPUT:
-c:\Users\admin\Documents\Screenshots\Screenshot (225).png
+![alt text](<Screenshot (215).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
